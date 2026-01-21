@@ -25,14 +25,14 @@ Implement service-layer business logic
 Use custom exceptions for validation
 Simulate a real-world courier workflow
 
-****OUTPUT 
+## OUTPUT 
 <img width="1504" height="404" alt="image" src="https://github.com/user-attachments/assets/2720fa4c-df20-430b-be2d-53285895a393" />
 
-****Author
+## Author
 
 Navaneetha C -717823P134
 Java Developer | Student
 
-****License
+## License
 This project is for educational purposes only.
 
